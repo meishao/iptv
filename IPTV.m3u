@@ -1,0 +1,74 @@
+#EXTM3U
+
+#EXTINF:-1 logo="" group-title="IPTV" ,BS Asahi (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00048/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,Fashion TV Tokyo (PG13) (1080p)
+https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,CNBC (1080p)
+http://s1.mysportz.tv:2082/CNBC/playlist.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,NHK G Osaka (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00032/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,ABC News (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,FOX 2 San Francisco CA (KTVU) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,BS Fuji TV (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00049/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,NHK BS1 (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00037/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,BS Nippon TV (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00047/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,CCTV-13新闻 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,BS TV Tokyo (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00050/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,FOX 11 Los Angeles CA (KTTV) (720p)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,壹電視新聞台 (1080p)
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,NHK G Tokyo (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00033/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,CCTV-8电视剧 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,TV Osaka (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00013/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,CCTV-4中文国际 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,Kansai TV (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00006/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,CNN USA (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,CCTV-9纪录 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,ABC 13 Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,CCTV-1综合 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,NHK Chinese Vision (720p)
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,TV Asahi (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00014/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,BS-TBS (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00051/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,ABC 9 Orlando FL (WFTV) (720p)
+https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,民視 (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 logo="" group-title="IPTV" ,NBC News Now (1080p)
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,ABC 7 Washington DC (WJLA) (720p)
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,NHK BSP (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00036/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,民視台灣 (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 logo="" group-title="IPTV" ,Global Fashion Channel (1080p)
+https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,TV Tokyo (720p) [Not 24/7]
+http://50.7.74.29:8880/hls/j00012/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,MSNBC (1080p)
+http://s1.mysportz.tv:2082/msnbc/playlist.m3u8
