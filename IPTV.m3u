@@ -50,12 +50,12 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 logo="" group-title="IPTV" ,TV Asahi (720p) [Not 24/7]
 http://50.7.74.29:8880/hls/j00014/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV" ,民視 (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 logo="" group-title="IPTV" ,BS-TBS (720p) [Not 24/7]
 http://50.7.74.29:8880/hls/j00051/index.m3u8
 #EXTINF:-1 logo="" group-title="IPTV" ,ABC 9 Orlando FL (WFTV) (720p)
 https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
-#EXTINF:-1 logo="" group-title="IPTV" ,民視 (720p) [Not 24/7]
-http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 logo="" group-title="IPTV" ,NBC News Now (1080p)
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 logo="" group-title="IPTV" ,ABC 7 Washington DC (WJLA) (720p)
@@ -66,6 +66,8 @@ http://50.7.74.29:8880/hls/j00036/index.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="IPTV" ,民視台灣 (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 logo="" group-title="IPTV" ,Fashion TV Secret(1080p)
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 logo="" group-title="IPTV" ,Global Fashion Channel (1080p)
 https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 logo="" group-title="IPTV" ,TV Tokyo (720p) [Not 24/7]
